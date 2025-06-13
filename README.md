@@ -1,6 +1,6 @@
 # Background
 
-The podcast Kodsnack (swedish; "code talk") episode 25 discussed how
+The podcast Kodsnack (swedish; "code talk") episode 205 discussed how
 to be more focused on right here and now and do away with the
 past. One of the things was git logs and if they were actually worth
 keeping or not.
